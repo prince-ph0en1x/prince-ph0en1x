@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Ph.D. candidate at [QuTech](https://qutech.nl/person/aritra-sarkar/) and [QCA lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/staff/aritra-sarkar/), working on **Quantum accelerated Experimental Algorithmic Information Theory for Genomics and Artificial General Intelligence**. Previously, I completed my M.Sc. in [Computer Engineering](https://www.tudelft.nl/en/education/programmes/masters/computer-engineering/msc-computer-engineering/) with thesis on [Quantum Algorithms for Pattern Matching on Genomic Sequences](https://repository.tudelft.nl/islandora/object/uuid%3A4257310d-6d8b-4f5a-9fda-00cf8e081f0e).
+
+
 <!--
 **prince-ph0en1x/prince-ph0en1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
