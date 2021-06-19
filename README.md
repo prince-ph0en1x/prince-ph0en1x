@@ -4,7 +4,7 @@ I am a Ph.D. candidate at [QuTech](https://qutech.nl/person/aritra-sarkar/) and 
 
 ![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=prince-ph0en1x&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
 
-[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=prince-ph0en1x&repo=AutonomousQuantumPhysicist)](https://github.com/Advanced-Research-Centre/AutonomousQuantumPhysicist)
+[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=AutonomousQuantumPhysicist)](https://github.com/Advanced-Research-Centre/AutonomousQuantumPhysicist)
 
 <!--
 **prince-ph0en1x/prince-ph0en1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
