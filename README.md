@@ -6,7 +6,7 @@ I am a Ph.D. candidate at [QuTech](https://qutech.nl/person/aritra-sarkar/) and 
 
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=AutonomousQuantumPhysicist)](https://github.com/Advanced-Research-Centre/AutonomousQuantumPhysicist)
 
-### **Connect with me:**:point_down:
+### **Connect with me** :point_down:
 
 [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/sarkararitra/)
 
