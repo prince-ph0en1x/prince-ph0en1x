@@ -8,6 +8,9 @@ I did my doctoral research in the [QCA lab](https://www.tudelft.nl/en/eemcs/the-
 
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=QKSA)](https://github.com/Advanced-Research-Centre/QKSA)
 
+[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=YAQQ)](https://github.com/Advanced-Research-Centre/YAQQ)
+
+
 ### **Connect with me** :point_down:
 
 [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/sarkararitra/)
