@@ -14,7 +14,8 @@ Most of my current GitHub activities are within the [Quantum Intelligence](https
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=QKSA)](https://github.com/Advanced-Research-Centre/QKSA)
 -->
 
-Project currently in focus:
+The project currently in focus:
+
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=YAQQ)](https://github.com/Advanced-Research-Centre/YAQQ)
 
 
