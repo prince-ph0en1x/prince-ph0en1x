@@ -6,10 +6,15 @@ I did my doctoral research in the [QCA lab](https://www.tudelft.nl/en/eemcs/the-
 
 Most of my current GitHub activities are within the [Quantum Intelligence](https://github.com/Advanced-Research-Centre) and [Quantum Machine Learning](https://github.com/QML-Group) organizations.
 
+<!--
 ![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=prince-ph0en1x&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
+-->
 
+<!--
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=QKSA)](https://github.com/Advanced-Research-Centre/QKSA)
+-->
 
+Project currently in focus:
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=YAQQ)](https://github.com/Advanced-Research-Centre/YAQQ)
 
 
