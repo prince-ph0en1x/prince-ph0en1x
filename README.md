@@ -19,7 +19,7 @@ The project currently in focus:
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=YAQQ)](https://github.com/Advanced-Research-Centre/YAQQ)
 
 
-### **Connect with me** 👉: [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/sarkararitra/)
+### **Connect with me** 👉 [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/sarkararitra/)
 
 <!--
 **prince-ph0en1x/prince-ph0en1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
