@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a post-doctoral researcher at [QuTech](https://qutech.nl/person/aritra-sarkar/) in the Quantum Machine Learning group. I work on topics spanning general intelligence, quantum computation, algorithmic information, computer engineering, and philosophy.
+I work on topics spanning quantum computation, algorithmic information, computer engineering, explainable artificial intelligence and philosophy.
 
-I did my doctoral research in the [QCA lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/staff/aritra-sarkar/) on [**Applications of Quantum Computation and Algorithmic Information for Causal Modeling in Genomics and Reinforcement Learning**](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576). Previously, I completed my M.Sc. in Computer Enginnering, (now called [MSc Computer & Embedded Systems Engineering](https://www.tudelft.nl/en/education/programmes/masters/msc-computer-embedded-systems-engineering)) with my thesis on [Quantum Algorithms for Pattern Matching on Genomic Sequences](https://repository.tudelft.nl/islandora/object/uuid%3A4257310d-6d8b-4f5a-9fda-00cf8e081f0e). Before shifting to the Netherlands, I was a scientist at the Indian Space Research Organisation, and programmed satellites like Astrosat, Chandrayaan-2, Cartosat, Resourcesat, etc.
+I was a post-doctoral researcher in the Quantum Machine Learning group at [QuTech](https://qutech.nl/person/aritra-sarkar/). I did my doctoral research in the [QCA lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/staff/aritra-sarkar/) on [**Applications of Quantum Computation and Algorithmic Information for Causal Modeling in Genomics and Reinforcement Learning**](https://doi.org/10.4233/uuid:0952c9e9-115c-4672-9381-2b302d1b9576). Previously, I completed my M.Sc. in Computer Enginnering, (now called [MSc Computer & Embedded Systems Engineering](https://www.tudelft.nl/en/education/programmes/masters/msc-computer-embedded-systems-engineering)) with my thesis on [Quantum Algorithms for Pattern Matching on Genomic Sequences](https://repository.tudelft.nl/islandora/object/uuid%3A4257310d-6d8b-4f5a-9fda-00cf8e081f0e). Before shifting to the Netherlands, I was a scientist at the Indian Space Research Organisation, and programmed satellites like Astrosat, Chandrayaan-2, Cartosat, Resourcesat, etc.
 
-Most of my current GitHub activities are within the [Quantum Intelligence](https://github.com/Advanced-Research-Centre) and [Quantum Machine Learning](https://github.com/QML-Group) organizations.
+Most of my current GitHub activities are hosted under the [Quantum Intelligence](https://github.com/Advanced-Research-Centre) organization. Past projects and collaborations can be access at [Quantum Machine Learning](https://github.com/QML-Group) and [Quantum Computer Architecture Lab](https://github.com/QE-Lab).
 
 <!--
 ![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=prince-ph0en1x&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
@@ -14,9 +14,11 @@ Most of my current GitHub activities are within the [Quantum Intelligence](https
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=QKSA)](https://github.com/Advanced-Research-Centre/QKSA)
 -->
 
-The project currently in focus:
+Projects currently in focus:
 
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=YAQQ)](https://github.com/Advanced-Research-Centre/YAQQ)
+
+[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=DeQompile)](https://github.com/Advanced-Research-Centre/DeQompile)
 
 
 ### **Connect with me** 👉 [![LinkedIn-Icon-Logo wine](https://user-images.githubusercontent.com/52291447/116795606-18bdaa00-aace-11eb-940b-0740dfeb8309.png)](https://www.linkedin.com/in/sarkararitra/)
