@@ -8,9 +8,8 @@ Previously, I was a post-doctoral researcher in the [Quantum Machine Learning gr
 
 Most of my current GitHub activities are hosted under the [Quantum Intelligence Alliance](https://github.com/Advanced-Research-Centre) and [FRIPL Quantum](https://github.com/FRIPL-Quantum) organizations. Past projects and collaborations can be accessed at [Quantum Machine Learning](https://github.com/QML-Group) and [Quantum Computer Architecture Lab](https://github.com/QE-Lab).
 
-<!--
+
 ![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=prince-ph0en1x&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
--->
 
 <!--
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Research-Centre&repo=QKSA)](https://github.com/Advanced-Research-Centre/QKSA)
